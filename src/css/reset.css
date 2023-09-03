@@ -1,0 +1,21 @@
+:root{
+	--logoColor: #FFE560;
+	--white: #ffffff;
+	--black: #110a04;
+	--red: #BF2F3C;
+	--red2: #AA2C20;
+	--blue: #08192B;
+	--sabreGreen: #408551;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+
+	font-family: 'Rubik', sans-serif;
+}
+
+
+
